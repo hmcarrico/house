@@ -1,0 +1,17 @@
+.alll {
+    background: #afd4c0;
+    padding: none
+}
+
+.prettyHouse {
+    background: #dedede;
+    width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.dash {
+    font-size: 40px;
+    padding: none
+}

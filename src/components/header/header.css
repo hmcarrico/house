@@ -1,0 +1,16 @@
+.headhead {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+    background: #3b5249;
+}
+.headhead > h1 {
+    font-size: 40px;
+}
+
+.headheadhead{
+    width: 200px;
+    display: flex;
+    padding: 5px;
+}

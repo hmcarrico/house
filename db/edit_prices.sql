@@ -1,0 +1,1 @@
+update houses set morgage = $1, rent = $2 where id = $3;
